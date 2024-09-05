@@ -1,6 +1,5 @@
 # uDevTools
-Uses [*Chii*](https://github.com/liriliri/chii) and [*Chobitsu*](https://github.com/liriliri/chobitsu) to simulate DevTools. This might not work on some pages.
-
+Uses [*Chii*](https://github.com/liriliri/chii) and [*Chobitsu*](https://github.com/liriliri/chobitsu) to simulate DevTools via a *uBlock Origin* scriptlet.
 To install:
 
 1. Install uBlock Origin from Chrome Web Store (if it's blocked whomp whomp)
