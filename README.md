@@ -53,10 +53,10 @@ Everything works except Google Docs/Sheets/Drive/etc.
 * [surunzi](https://github.com/surunzi) or [liriliri](https://github.com/liriliri) for making eruda and chii.
 * Everybody who has contributed and made uBlock Origin a thing.
 * Google, for making a absolutely dumb browser 💀
-* Finn Baltazar for writing the initial code (which all of it has been replaced with a harder to stop version for lazy devs).
+* Finn Baltazar for writing the initial code.
   * GitHub: @FinnBaltazar1111 https://github.com/FinnBaltazar1111
   * Discord: \@ReznorsRevenge https://discord.com/users/764259980865699842
   * YouTube Reznor's Revenge https://youtube.com/@ReznorsRevenge1
-* s0urce-c0de, The man behind it all (also the person writing most of this and uDevTools.js and fixing practically everything, from broken injection to togglable shortcut and keybinds.)
+* s0urce-c0de, for addding the toggle and keybind function, fixing an issue with page distortion, adding images for README, adding URL for uBlock Origin, and for testing sites which this works on.
   * GitHub: @s0urce-c0de https://github.com/s0urce-c0de
   * Discord \@s0urce_c0de https://discord.com/users/947649923342540860
