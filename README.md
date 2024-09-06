@@ -11,7 +11,7 @@ To run:
 5. On the last line next to `userResourcesLocation`, change `unset` to `https://raw.githubusercontent.com/FinnBaltazar1111/uDevTools/main/uDevTools.min.js` and click *Apply Changes*. If it is already set you can change it from something like `userResourcesLocation https://raw.githubusercontent.com/3kh0/ext-remover/main/ublockExec.js` (uRun) to `userResourcesLocation https://raw.githubusercontent.com/3kh0/ext-remover/main/ublockExec.js https://raw.githubusercontent.com/FinnBaltazar1111/uDevTools/main/uDevTools.min.js` (uRun + uDevtools)
 6. Click *Apply Changes*
 7. Go to chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html
-8. Inside the edit box, copy-paste this: `*##+js(chii.js)` in a new line, then click *Apply Changes*.
+8. Inside the edit box, copy-paste this: `*##+js(uDevTools.js)` in a new line, then click *Apply Changes*.
 
 And you're done! Note that this might not work on some sites due to additional protections.
 
