@@ -25,7 +25,7 @@
  * For more information, please refer to <https://unlicense.org/>
  */
 
-/// chii.js
+/// uDevTools.js
 // This is in an encapsulated scope so that no program can modify this easily.
 // The try-catch block is to let other scriptlets run if this scriptlet errors.
 (async function(){
